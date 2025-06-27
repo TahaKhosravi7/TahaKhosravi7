@@ -24,7 +24,7 @@ Despite my young age, I have a strong motivation to learn new technologies quick
 
 ## 🚀 Projects
 
-I am still working on this part 😉
+### I am still working on this part 😉
 ---
 
 ## 📫 Get in touch
